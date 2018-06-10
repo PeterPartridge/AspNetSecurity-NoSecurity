@@ -1,0 +1,11 @@
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\bin\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.deps.json
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\bin\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.runtimeconfig.json
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\bin\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.runtimeconfig.dev.json
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\bin\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.dll
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\bin\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.pdb
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\obj\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.csprojAssemblyReference.cache
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\obj\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.csproj.CoreCompileInputs.cache
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\obj\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.AssemblyInfoInputs.cache
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\obj\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.AssemblyInfo.cs
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\obj\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.dll
+C:\Users\PeterPlay\Downloads\asp-dot-net-core-security-understanding\02\demos\AspNetSecurity-NoSecurity\obj\Debug\netcoreapp2.0\AspNetSecurity-NoSecurity.pdb

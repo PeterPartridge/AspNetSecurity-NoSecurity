@@ -1,0 +1,58 @@
+﻿SQL INjection
+
+controller (string name){
+select * from customers where name =(name)
+}
+
+
+search box you could add 'OR '1' = '1' --
+
+This will add to raw SQL and or paramter stating is TRUE.
+'OR '1 = 1
+Hacker now has access to all the data 
+-- is SQL for drop table
+Hacker has now destroyed data.
+Rules.
+1.Validate user input and dont allow = or slashes.
+2.Make sure the SQL user has minmum abilitys in sql database.
+3.ALways use an ORM if possible (stores procedure can still be abused though if they take user input.)
+4.minmise surfrace layer for attack
+
+
+
+Cross site scripting.
+
+search box <script>Alert('hello')</script> or <script>run.badscript()</script>
+
+1.encode all input into html.
+2.MVC will automaticly encode words into HTML. 
+3. when getting data from ourside MVC first encode this into html.
+
+Open redirect attacks 
+
+This attck as a web link allows a user to log into their bank account from correct site 
+then redirects users to the hackers site and gives a warning with wrong user name and password.
+Then redirects user back to proper site while they log in and take the money.
+
+
+Need to look more into this, but can add to log in pages 
+
+
+if(!Url.isLocalUrl(returnUrl)){
+
+//throw exception this is not a url
+}
+this is not a great system to used and just does a genral check.
+
+
+Click jacking 
+
+is using a box that says win £1000, but is actually linked to a hidden form paying money to the hacker. 
+Using xorgin headers stops these attacks.
+
+
+First part summery 
+MVC is the first defence against most of these attacks.
+NWebSec is a good tool for these 
+CORS is good for scross orgin scripting
+
